@@ -5,6 +5,7 @@
 !/.editorconfig
 !/.gitignore
 !/.npmignore
+!/.release.json
 !/bower.json
 !/index.js
 !/LICENSE
